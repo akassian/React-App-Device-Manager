@@ -24,7 +24,8 @@ Project files:
 -  client/src/components/SmallPage.js       is a functional component that takes in array of all devices and columnName and makes a sorted table by that column and show the top 5 devices/rows.
 -  client/src/components/MainPage.js    is a class component that shows the main page with a table of all devices, where you can edit an owner. It also calls component SmallPage.js   4 times to show 4 panels of top 5 devices by CPU, Mem, TX, and RX.
 -  A Mongo database is used to hold all devices.
-- I used my github accounts akass1122 and akassian for this project.
+
+I used my github accounts akass1122 and akassian for this project.
 
 
 
