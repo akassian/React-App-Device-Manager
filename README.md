@@ -1,4 +1,4 @@
-## [React App Device Manager] (http://devicemanager.us-west-1.elasticbeanstalk.com/)
+## [React App Device Manager](http://devicemanager.us-west-1.elasticbeanstalk.com/)
 
 
 My Device Manager app is written in React for front end and Node.js and MongoDB for backend.
