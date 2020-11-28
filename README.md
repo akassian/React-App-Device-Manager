@@ -3,8 +3,8 @@
 
 My Device Manager app is written in React for front end and Node.js and MongoDB for backend.
 
-The app is deployed on AWS:
-http://devicemanager.us-west-1.elasticbeanstalk.com/
+http://device-manager.andreik.net
+
 
 To run it locally:
 
